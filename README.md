@@ -1,1 +1,1 @@
-![Spring Boot MVC Diagram](images/spring-mvc-diagram.png)
+![Spring Boot MVC Diagram](spring-mvc-diagram.png)
